@@ -1,0 +1,137 @@
+Date,Province/State,Country,Confirmed,Deaths,Recovered,dayCount
+01/24/2020,,France,2.0,0.0,0.0,0
+01/25/2020,,France,3.0,0.0,0.0,1
+01/26/2020,,France,3.0,0.0,0.0,2
+01/27/2020,,France,3.0,0.0,0.0,3
+01/28/2020,,France,4.0,0.0,0.0,4
+01/29/2020,,France,5.0,0.0,0.0,5
+01/30/2020,,France,5.0,0.0,0.0,6
+01/31/2020,,France,5.0,0.0,0.0,7
+02/01/2020,,France,6.0,0.0,0.0,8
+02/02/2020,,France,6.0,0.0,0.0,9
+02/03/2020,,France,6.0,0.0,0.0,10
+02/04/2020,,France,6.0,0.0,0.0,11
+02/05/2020,,France,6.0,0.0,0.0,12
+02/06/2020,,France,6.0,0.0,0.0,13
+02/07/2020,,France,6.0,0.0,0.0,14
+02/08/2020,,France,11.0,0.0,0.0,15
+02/09/2020,,France,11.0,0.0,0.0,16
+02/10/2020,,France,11.0,0.0,0.0,17
+02/11/2020,,France,11.0,0.0,0.0,18
+02/12/2020,,France,11.0,0.0,2.0,19
+02/13/2020,,France,11.0,0.0,2.0,20
+02/14/2020,,France,11.0,0.0,2.0,21
+02/15/2020,,France,12.0,1.0,4.0,22
+02/16/2020,,France,12.0,1.0,4.0,23
+02/17/2020,,France,12.0,1.0,4.0,24
+02/18/2020,,France,12.0,1.0,4.0,25
+02/19/2020,,France,12.0,1.0,4.0,26
+02/20/2020,,France,12.0,1.0,4.0,27
+02/21/2020,,France,12.0,1.0,4.0,28
+02/22/2020,,France,12.0,1.0,4.0,29
+02/23/2020,,France,12.0,1.0,4.0,30
+02/24/2020,,France,12.0,1.0,4.0,31
+02/25/2020,,France,14.0,1.0,11.0,32
+02/26/2020,,France,18.0,2.0,11.0,33
+02/27/2020,,France,38.0,2.0,11.0,34
+02/28/2020,,France,57.0,2.0,11.0,35
+02/29/2020,,France,100.0,2.0,12.0,36
+03/01/2020,,France,130.0,2.0,12.0,37
+03/02/2020,,France,191.0,3.0,12.0,38
+03/03/2020,,France,204.0,4.0,12.0,39
+03/04/2020,,France,285.0,4.0,12.0,40
+03/05/2020,,France,377.0,6.0,12.0,41
+03/06/2020,,France,653.0,9.0,12.0,42
+03/07/2020,,France,949.0,11.0,12.0,43
+03/08/2020,,France,1126.0,19.0,12.0,44
+03/09/2020,,France,1209.0,19.0,12.0,45
+03/10/2020,,France,1784.0,33.0,12.0,46
+03/11/2020,Saint Barthelemy,France,1.0,0.0,0.0,47
+03/11/2020,France,France,2281.0,48.0,12.0,47
+03/11/2020,St Martin,France,2.0,0.0,0.0,47
+03/12/2020,France,France,2281.0,48.0,12.0,48
+03/12/2020,St Martin,France,2.0,0.0,0.0,48
+03/12/2020,Saint Barthelemy,France,1.0,0.0,0.0,48
+03/13/2020,France,France,3661.0,79.0,12.0,49
+03/13/2020,French Polynesia,France,3.0,0.0,0.0,49
+03/13/2020,Saint Barthelemy,France,1.0,0.0,0.0,49
+03/13/2020,St Martin,France,2.0,0.0,0.0,49
+03/14/2020,France,France,4469.0,91.0,12.0,50
+03/14/2020,Fench Guiana,France,5.0,0.0,0.0,50
+03/14/2020,French Polynesia,France,3.0,0.0,0.0,50
+03/14/2020,St Martin,France,2.0,0.0,0.0,50
+03/14/2020,Saint Barthelemy,France,1.0,0.0,0.0,50
+03/15/2020,Mayotte,France,1.0,0.0,0.0,51
+03/15/2020,St Martin,France,2.0,0.0,0.0,51
+03/15/2020,Saint Barthelemy,France,1.0,0.0,0.0,51
+03/15/2020,French Guiana,France,7.0,0.0,0.0,51
+03/15/2020,France,France,4499.0,91.0,12.0,51
+03/15/2020,French Polynesia,France,3.0,0.0,0.0,51
+03/16/2020,France,France,6633.0,148.0,12.0,52
+03/16/2020,French Guiana,France,5.0,0.0,0.0,52
+03/16/2020,French Polynesia,France,3.0,0.0,0.0,52
+03/16/2020,Guadeloupe,France,3.0,0.0,0.0,52
+03/16/2020,Saint Barthelemy,France,3.0,0.0,0.0,52
+03/16/2020,St Martin,France,2.0,0.0,0.0,52
+03/16/2020,Mayotte,France,1.0,0.0,0.0,52
+03/17/2020,Mayotte,France,1.0,0.0,0.0,53
+03/17/2020,St Martin,France,2.0,0.0,0.0,53
+03/17/2020,Saint Barthelemy,France,3.0,0.0,0.0,53
+03/17/2020,French Polynesia,France,3.0,0.0,0.0,53
+03/17/2020,France,France,7652.0,148.0,12.0,53
+03/17/2020,French Guiana,France,7.0,0.0,0.0,53
+03/17/2020,Reunion,France,9.0,0.0,0.0,53
+03/17/2020,Guadeloupe,France,6.0,0.0,0.0,53
+03/18/2020,Guadeloupe,France,0.0,0.0,0.0,54
+03/18/2020,Reunion,France,0.0,0.0,0.0,54
+03/18/2020,Mayotte,France,0.0,0.0,0.0,54
+03/18/2020,French Guiana,France,0.0,0.0,0.0,54
+03/18/2020,French Polynesia,France,3.0,0.0,0.0,54
+03/18/2020,Saint Barthelemy,France,3.0,0.0,0.0,54
+03/18/2020,France,France,9043.0,148.0,12.0,54
+03/18/2020,St Martin,France,3.0,0.0,0.0,54
+03/19/2020,France,France,10871.0,243.0,12.0,55
+03/19/2020,French Polynesia,France,6.0,0.0,0.0,55
+03/19/2020,St Martin,France,4.0,0.0,0.0,55
+03/19/2020,Saint Barthelemy,France,3.0,0.0,0.0,55
+03/19/2020,New Caledonia,France,2.0,0.0,0.0,55
+03/19/2020,French Guiana,France,0.0,0.0,0.0,55
+03/19/2020,Guadeloupe,France,0.0,0.0,0.0,55
+03/19/2020,Mayotte,France,0.0,0.0,0.0,55
+03/19/2020,Reunion,France,0.0,0.0,0.0,55
+03/20/2020,Guadeloupe,France,0.0,0.0,0.0,56
+03/20/2020,Reunion,France,0.0,0.0,0.0,56
+03/20/2020,Mayotte,France,0.0,0.0,0.0,56
+03/20/2020,French Guiana,France,0.0,0.0,0.0,56
+03/20/2020,France,France,12612.0,450.0,12.0,56
+03/20/2020,Saint Barthelemy,France,3.0,0.0,0.0,56
+03/20/2020,St Martin,France,4.0,0.0,0.0,56
+03/20/2020,French Polynesia,France,11.0,0.0,0.0,56
+03/20/2020,New Caledonia,France,2.0,0.0,0.0,56
+03/21/2020,Reunion,France,0.0,0.0,0.0,57
+03/21/2020,Mayotte,France,0.0,0.0,0.0,57
+03/21/2020,Guadeloupe,France,0.0,0.0,0.0,57
+03/21/2020,French Guiana,France,0.0,0.0,0.0,57
+03/21/2020,Saint Barthelemy,France,3.0,0.0,0.0,57
+03/21/2020,New Caledonia,France,4.0,0.0,0.0,57
+03/21/2020,French Polynesia,France,15.0,0.0,0.0,57
+03/21/2020,France,France,14282.0,562.0,12.0,57
+03/21/2020,St Martin,France,4.0,0.0,0.0,57
+03/22/2020,Reunion,France,0.0,0.0,0.0,58
+03/22/2020,Mayotte,France,0.0,0.0,0.0,58
+03/22/2020,Guadeloupe,France,0.0,0.0,0.0,58
+03/22/2020,French Guiana,France,0.0,0.0,0.0,58
+03/22/2020,New Caledonia,France,4.0,0.0,0.0,58
+03/22/2020,St Martin,France,4.0,0.0,0.0,58
+03/22/2020,French Polynesia,France,15.0,0.0,0.0,58
+03/22/2020,France,France,16018.0,674.0,2200.0,58
+03/22/2020,Saint Barthelemy,France,3.0,0.0,0.0,58
+03/23/2020,Saint Barthelemy,France,3.0,0.0,0.0,59
+03/23/2020,French Guiana,France,20.0,0.0,6.0,59
+03/23/2020,French Polynesia,France,19874.0,860.0,2200.0,59
+03/23/2020,Guadeloupe,France,62.0,1.0,0.0,59
+03/23/2020,Martinique,France,53.0,1.0,0.0,59
+03/23/2020,Mayotte,France,24.0,0.0,0.0,59
+03/23/2020,New Caledonia,France,8.0,0.0,0.0,59
+03/23/2020,Reunion,France,71.0,0.0,1.0,59
+03/23/2020,St Martin,France,8.0,0.0,0.0,59
